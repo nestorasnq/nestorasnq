@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Dimitris 👋
 
-<!--
-**nestorasnq/nestorasnq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics graduate transitioning into Data Science.
+Currently working as a Financial Data Analyst.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- [World Economic Indicators EDA](https://github.com/nestorasnq/world-economic-indicators-eda)
+  — Macroeconomic analysis across 45 countries using Python, pandas & seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+Python · pandas · matplotlib · seaborn · SQL · Excel · Data Analysis
+
+### 📚 Education
+- BSc Economics
+- MSc Data Science (target)
