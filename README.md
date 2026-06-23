@@ -1,15 +1,20 @@
 ## Hi, I'm Dimitris 👋
 
-Economics graduate transitioning into Data Science.
-Currently working as a Financial Data Analyst.
+Economics graduate and Financial Data Analyst with a strong foundation in
+quantitative analysis, econometrics, and financial data management.
+Building expertise in Python and data analysis through independent
+projects and university-level specializations.
 
 ### 🔭 Current Projects
 - [World Economic Indicators EDA](https://github.com/nestorasnq/world-economic-indicators-eda)
-  — Macroeconomic analysis across 45 countries using Python, pandas & seaborn
+  — Macroeconomic analysis across 45 countries (2000–2022) using Python,
+  pandas & seaborn. Covers GDP growth, inflation, unemployment, and interest
+  rates across developed and emerging markets.
 
 ### 🛠 Skills
-Python · pandas · matplotlib · seaborn · SQL · Excel · Data Analysis
+Python · pandas · matplotlib · seaborn · SQL · SAP ERP · Excel ·
+Econometrics · Macroeconomic Analysis · Financial Data Management
 
 ### 📚 Education
-- BSc Economics
-- MSc Data Science (target)
+- BSc Economics, University of Macedonia (UoM)
+- MSc in Financial Technology / Applied Economics & Finance (target)
